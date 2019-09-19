@@ -7,7 +7,8 @@ const usuarios = [
   { nombre: "usuario1" },
   { nombre: "usuario2" },
   { nombre: "usuario3" },
-  { nombre: "usuario4" }
+  { nombre: "usuario4" },
+  { nombre: "usuario5" }
 ];
 
 app.get("/", function(req, res) {
