@@ -10,6 +10,7 @@ const usuarios = [
   { nombre: "usuario4" },
   { nombre: "usuario5" },
   { nombre: "usuario6" }
+
 ];
 
 app.get("/", function(req, res) {
